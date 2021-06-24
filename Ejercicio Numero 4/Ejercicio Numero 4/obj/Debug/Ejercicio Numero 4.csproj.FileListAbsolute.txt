@@ -1,0 +1,9 @@
+C:\Users\carlo\source\repos\.gitconfig\Ejercicio Numero 4\Ejercicio Numero 4\bin\Debug\Ejercicio Numero 4.exe.config
+C:\Users\carlo\source\repos\.gitconfig\Ejercicio Numero 4\Ejercicio Numero 4\bin\Debug\Ejercicio Numero 4.exe
+C:\Users\carlo\source\repos\.gitconfig\Ejercicio Numero 4\Ejercicio Numero 4\bin\Debug\Ejercicio Numero 4.pdb
+C:\Users\carlo\source\repos\.gitconfig\Ejercicio Numero 4\Ejercicio Numero 4\obj\Debug\Ejercicio Numero 4.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\.gitconfig\Ejercicio Numero 4\Ejercicio Numero 4\obj\Debug\Ejercicio_Numero_4.Form1.resources
+C:\Users\carlo\source\repos\.gitconfig\Ejercicio Numero 4\Ejercicio Numero 4\obj\Debug\Ejercicio_Numero_4.Properties.Resources.resources
+C:\Users\carlo\source\repos\.gitconfig\Ejercicio Numero 4\Ejercicio Numero 4\obj\Debug\Ejercicio Numero 4.csproj.GenerateResource.cache
+C:\Users\carlo\source\repos\.gitconfig\Ejercicio Numero 4\Ejercicio Numero 4\obj\Debug\Ejercicio Numero 4.exe
+C:\Users\carlo\source\repos\.gitconfig\Ejercicio Numero 4\Ejercicio Numero 4\obj\Debug\Ejercicio Numero 4.pdb
